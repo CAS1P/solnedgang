@@ -1,2 +1,2 @@
 # solnedgang
-En drupal subtheme till barrio om solnedgångar.
+En drupal subtheme till barrio som handlar om solnedgångar.
